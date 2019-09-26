@@ -1,0 +1,4 @@
+# this file is required if you want to test updates in a dev environment 
+provider: github
+repo: db-visualization-toolkit-electron
+owner: keeps
