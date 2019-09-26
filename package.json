@@ -37,8 +37,8 @@
   "scripts": {
     "start": "./node_modules/.bin/electron .",
     "pack": "electron-builder --dir",
-    "dist": "electron-builder -p always",
-    "dist-lw": "electron-builder -wl -p always"
+    "dist": "electron-builder",
+    "dist-lw": "electron-builder -wl"
   },
   "license": "LGPL-3.0-or-later",
   "devDependencies": {
